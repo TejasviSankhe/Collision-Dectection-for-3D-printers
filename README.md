@@ -1,0 +1,2 @@
+# Collision-Dectection-for-3D-printers
+The project is related to collision detection of G-codes for a 3D printer. The project can be used to detect this malicious G-code. There are various methods for collision detection, here line segment intersection method to perform this collision detection. The project detects malicious lines for each 3D plane by comparing two lines at a time and determining if the line is malicious or non-malicious.
